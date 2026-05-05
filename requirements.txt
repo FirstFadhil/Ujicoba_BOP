@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+nltk
+Sastrawi
+scikit-learn
+imbalanced-learn
+transformers
+torch
+tqdm
+openpyxl
